@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emrelive
+- 👋 Hi, I’m @emrelive a.k.a keser döner sap döner emre baba 1,5 zurna gömer 53
 - 👀 I’m interested in Web Develop, JS, HTML and Python
-- 🌱 I’m currently learning Gazi University - Computer Programming
+- 🌱 I’m currently learning OMÜ in Turkey
 - 📫 [linkedin](https://www.linkedin.com/in/emremaras/)
