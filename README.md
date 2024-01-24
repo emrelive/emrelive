@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @emrelive
 - 👀 I’m interested in Web Develop, JS, HTML and Python
 - 🌱 I’m currently learning Gazi University - Computer Programming
-- 📫 linkedin.com/in/emremaras/
+- 📫 [linkedin.com/in/emremaras/](https://www.linkedin.com/in/emremaras/)https://www.linkedin.com/in/emremaras/
