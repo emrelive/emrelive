@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @emrelive a.k.a keser döner sap döner emre baba soslu 1,5 zurna gömer 53
-- 👀 webdev, js, html, php, c#, sql, python, oop, ps, ai, c4d
-- 🌱 I’m currently learning OMÜ in Turkey
+- 👀 js, html, php, c#, sql, python, oop, ps, ai, c4d
