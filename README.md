@@ -1,1 +1,1 @@
-![Resim Açıklaması](https://raw.githubusercontent.com/emrelive/emreartz/refs/heads/main/assets/media/banner.jpg)
+![Banner](https://raw.githubusercontent.com/emrelive/emreartz/refs/heads/main/assets/media/banner.png)
