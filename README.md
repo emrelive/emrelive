@@ -1,6 +1,11 @@
 ![Banner](https://raw.githubusercontent.com/emrelive/emreartz/refs/heads/main/assets/media/banner.png)
 
-## 🚀 What Powers My Work
+## 💻 about me
+
+🎨 craftin designs that make your screen inspire  
+🌍 turkey roots, global routes, makin apps that shoot
+
+## 🚀 what powers my work
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +24,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📬 Communication & Social
+## 📬 communication & social
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emremaras53@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emreartz)
